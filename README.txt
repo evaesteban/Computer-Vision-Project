@@ -20,3 +20,5 @@ with colour moments, and 'Test\_NEW.m' for the new technique.
 
 Each test outputs a figure showing the top 10 results and the PR curves for each query with their corresponding 
 MAP values (average of the five used queries' AP values). 
+
+A full description of this tool can be found on [Link to Report](Esteban_Eva_CV.pdf)
